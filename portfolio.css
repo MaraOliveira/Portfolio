@@ -1,0 +1,35 @@
+p {
+    margin-bottom: 1
+
+p + p {
+    text-indent: 1.5em;
+    margin-top: 25;
+    }}
+
+
+header {
+  background-color: #4682B4;
+  color: #fff;
+}
+
+
+img {
+  float:left;
+  
+  margin-right: 18px
+      
+}
+
+body {
+    
+    
+   color: #fff;
+    position: absolute;
+    background-size:100%;
+    background-size: cover;
+    padding: 0px;
+    background-image:url(audi-ti.jpeg);
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Arial,
+        sans-serif;
+    line-height: 1.5;
+}
